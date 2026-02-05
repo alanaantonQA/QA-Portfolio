@@ -112,3 +112,8 @@ Problemas
 Conclusión
 
 El juego tiene muchísimo potencial. Premia la observación y la paciencia, y su atmósfera es su mayor fortaleza. Incluso con los problemas, estuve totalmente enganchada.
+
+### Evidence / Evidencias
+
+![Fingerprint issue 1](images/fingerprint1.jpg)  
+![Fingerprint issue 2](images/fingerprint2.jpg)
