@@ -34,6 +34,7 @@ Focus areas:
 - Carnival Roulette  
 - Hacienda  
 - Rezium (pending confirmation)
+- SideEye High
 
 Roles:
 - Functional QA  
