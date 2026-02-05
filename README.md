@@ -66,3 +66,4 @@ Roles:
 
 - Email: alana.a.ikari@gmail.com
 - Languages: Spanish (native) / English
+- Availability: Remote / freelance playtests & LQA
