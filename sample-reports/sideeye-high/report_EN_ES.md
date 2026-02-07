@@ -42,8 +42,7 @@ Positives
 
 Issues / Less Positive
 
-I couldn’t switch to fullscreen
-
+-I couldn’t switch to fullscreen
 -Music volume didn’t respond correctly to the settings — I had to lower it in Windows
 -In the menu, after some minutes the music stopped completely and never returned
 -No subtitles available for Murph dialogues
