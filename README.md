@@ -33,9 +33,9 @@ Focus areas:
 -Briar Flame – Action RPG
 -Oasis Bloom – Cozy / Simulation
 -Undying One – Action / Dark Fantasy
--Carnival Roulette – Horror (LQA too)
+-Carnival Roulette – Horror (+LQA)
 -Hacienda – Simulation / Management
--Late Night Duty – First-person atmospheric horror (LQA too)
+-Late Night Duty – First-person atmospheric horror (+LQA)
 -Clockfall  – Dark fantasy action-RPG
 -Woe Reigns Unending – Horror side-scrolling RPG 
 -SideEye High – Consequence-driven point&click detective adventure
