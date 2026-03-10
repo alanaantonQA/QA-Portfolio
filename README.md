@@ -27,17 +27,19 @@ Focus areas:
 
 ## 🎮 Credited Projects
 
-- Dominion of Darkness - Writen RPG / Strategy / Simulator
--	The Living Artifact – Dice-based roguelite / strategy roguelike
-- StaticMaw  – Point&click survival-horror
-- Briar Flame – Action RPG
-- Oasis Bloom – Cozy / Simulation
-- Undying One – Action / Dark Fantasy
-- Carnival Roulette – Horror card-based
-- Hacienda – Simulation / Management
-- Clockfall – Dark fantasy action-RPG
-- Woe Reigns Unending – Horror side-scrolling RPG
-- SideEye High - consequence-driven point&click detective adventure
+-Dominion of Darkness – RPG / Strategy / Simulator 
+-The Living Artifact – Dice-based roguelite / strategy roguelike 
+-StaticMaw  – Point and click survival-horror
+-Briar Flame – Action RPG
+-Oasis Bloom – Cozy / Simulation
+-Undying One – Action / Dark Fantasy
+-Carnival Roulette – Horror (LQA too)
+-Hacienda – Simulation / Management
+-Late Night Duty – First-person atmospheric horror (LQA too)
+-Clockfall  – Dark fantasy action-RPG
+-Woe Reigns Unending – Horror side-scrolling RPG 
+-SideEye High – Consequence-driven point&click detective adventure
+-Astro Architect – City-builder game
 
 Roles:
 - Functional QA  
