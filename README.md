@@ -35,7 +35,8 @@ Focus areas:
 - Undying One – Action / Dark Fantasy
 - Carnival Roulette – Horror card-based
 - Hacienda – Simulation / Management
-- Rezium – RTS / Sci-Fi (pending confirmation)
+- Clockfall – Dark fantasy action-RPG
+- Woe Reigns Unending – Horror side-scrolling RPG
 - SideEye High - consequence-driven point&click detective adventure
 
 Roles:
