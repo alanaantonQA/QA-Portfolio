@@ -40,6 +40,7 @@ Focus areas:
 - Woe Reigns Unending – Horror side-scrolling RPG 
 - SideEye High – Consequence-driven point&click detective adventure
 - Astro Architect – City-builder game
+- Woodland Rebels – Survival
 
 Roles:
 - Functional QA  
