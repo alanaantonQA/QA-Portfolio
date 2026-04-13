@@ -41,7 +41,7 @@ Focus areas:
 - SideEye High – Consequence-driven point&click detective adventure
 - Astro Architect – City-builder game
 - Woodland Rebels – Survival
-- Oops! inc. Emergency Center – Simulation / Casual / Futuristic
+- Oops! inc. Emergency Center – Simulation / Casual / Futuristic (+LQA)
 
 Roles:
 - Functional QA  
