@@ -42,6 +42,8 @@ Focus areas:
 - Astro Architect – City-builder game
 - Woodland Rebels – Survival
 - Oops! inc. Emergency Center – Simulation / Casual / Futuristic (+LQA)
+- Into the Planet's Flesh – Idle / Incremental / Systems-Driven Strategy 
+- Ardent: Rise – RPG / Action RPG / Fantasy Exploration
 
 Roles:
 - Functional QA  
